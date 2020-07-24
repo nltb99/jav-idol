@@ -1,8 +1,10 @@
 {
     "name": "jav-idol",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "A tool for searching JAV actress",
     "main": "index.js",
+    "preferGlobal": true,
+    "bin": "./index.js",
     "dependencies": {
         "axios": "^0.19.2",
         "commander": "^6.0.0",
