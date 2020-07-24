@@ -80,7 +80,7 @@ program
                     return
                 }
 
-                console.log(`  #  | Date${" ".repeat(7)}| Code${" ".repeat(9)}| Title`)
+                console.log(`  #  | Date${" ".repeat(7)}| Code${" ".repeat(13)}| Title`)
                 console.log('========================================================================')
 
                 for (let i = 1; i < count; i++) {
