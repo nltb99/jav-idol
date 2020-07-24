@@ -7,7 +7,7 @@ Built by Commander.js and serval other open source project
 
 ## Installing
 
--   [npm](http://npmjs.com/): `npm install -g jav-dol`
+-   [npm](https://www.npmjs.com/package/jav-idol): `npm install -g jav-dol`
 
 ## Basic Usage
 
