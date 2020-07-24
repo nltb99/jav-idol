@@ -1,0 +1,27 @@
+{
+    "name": "jav-idol",
+    "version": "1.0.0",
+    "description": "A tool for searching JAV actress",
+    "main": "index.js",
+    "dependencies": {
+        "axios": "^0.19.2",
+        "commander": "^6.0.0",
+        "chalk": "^4.1.0",
+        "prompts": "^2.3.2"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/nguyenletienbao99/jav-idol.git"
+    },
+    "keywords": ["jav-idol", "jav", "jav-actress"],
+    "author": "nltbao",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/nguyenletienbao99/jav-idol/issues"
+    },
+    "homepage": "https://github.com/nguyenletienbao99/jav-idol#readme"
+}
