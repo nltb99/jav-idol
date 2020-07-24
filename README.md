@@ -2,7 +2,7 @@
 
 ```javascript
 A tool for searching JAV Actress
-Built by Commander.js and serval other open source project
+Built by Commander.js and serval other Open Source Projects
 ```
 
 ## Installing
