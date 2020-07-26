@@ -21,4 +21,4 @@ $ jav-idol search
 
 ## Source
 
--   GitHub: <https://github.com/nguyenletienbao99/jav-idol>
+-   GitHub: <https://github.com/nltbao99/jav-idol>
