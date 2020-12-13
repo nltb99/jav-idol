@@ -19,7 +19,11 @@
         "type": "git",
         "url": "git+https://github.com/nltbao99/jav-idol.git"
     },
-    "keywords": ["jav-idol", "jav", "jav-actress"],
+    "keywords": [
+        "jav-idol",
+        "jav",
+        "jav-actress"
+    ],
     "author": "nltbao",
     "license": "ISC",
     "bugs": {
