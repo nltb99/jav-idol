@@ -1,6 +1,6 @@
 {
     "name": "jav-idol",
-    "version": "1.0.7",
+    "version": "1.0.8",
     "description": "A tool for searching JAV actress",
     "main": "index.js",
     "preferGlobal": true,
@@ -19,11 +19,7 @@
         "type": "git",
         "url": "git+https://github.com/nltbao99/jav-idol.git"
     },
-    "keywords": [
-        "jav-idol",
-        "jav",
-        "jav-actress"
-    ],
+    "keywords": ["jav-idol", "jav", "jav-actress"],
     "author": "nltbao",
     "license": "ISC",
     "bugs": {
